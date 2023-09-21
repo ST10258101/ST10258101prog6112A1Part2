@@ -1,0 +1,20 @@
+References
+Tic-tac-toe game in Java (2022) GeeksforGeeks. Available at: https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/ (Accessed: 21 September 2023). 
+
+Learning, J. (no date) Tic Tac Toe Java coding game: Step-by-step tutorial, Online Learning &amp; Tech Programs for Kids. Available at: https://junilearning.com/blog/coding-projects/java-beginner-tic-tac-toe-tutorial/ (Accessed: 21 September 2023). 
+
+How to create a tic tac toe game in Java (2023) Codingal. Available at: https://www.codingal.com/coding-for-kids/blog/tic-tac-toe-game-in-java/ (Accessed: 21 September 2023). 
+
+Java Graphics Programming (no date) Tic-tac-toe - Java Game Programming Case Study. Available at: https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe.html (Accessed: 21 September 2023). 
+
+McNeil, T. (2022) Tic Tac Toe in Java, Medium. Available at: https://medium.com/codex/tic-tac-toe-e53212028341 (Accessed: 21 September 2023). 
+
+
+Tic Tac toe game in Java with source code - javatpoint (no date) www.javatpoint.com. Available at: https://www.javatpoint.com/tic-tac-toe-game (Accessed: 21 September 2023). 
+
+Missy-C and Instructables (2017) Make tic tac toe in Java, Instructables. Available at: https://www.instructables.com/Make-Tic-Tac-Toe-in-Java/ (Accessed: 21 September 2023). 
+
+Jaswal, S. (2023) Tic Tac Toe game source code in Java (complete guide), The CoderPedia. Available at: https://www.thecoderpedia.com/blog/tic-tac-toe-game-source-code-in-java/ (Accessed: 21 September 2023). 
+
+Tic Tac Toe game code - in Java (play in console) (2023) Code Part Time. Available at: https://codeparttime.com/tic-tac-toe-game-java/ (Accessed: 21 September 2023). 
+
